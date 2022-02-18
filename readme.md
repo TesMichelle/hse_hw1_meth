@@ -42,3 +42,8 @@
 
 Так в образцах 8 cell мы видим примерно симметричное распределение количества метилированных образцов с центром олоко 50%, затем в образцах ICM наблюдается сдвиг к ридам с более низким уровнем метилирования, а в epiblast наоборот - к ридам с более высоким.
 ![Alt text](/imgs/histograms.png?raw=true "Optional Title")
+
+
+###Genome tracks
+$ pyGenomeTracks --tracks bigwig.ini --region chr11:3800000-3850000 -o bigwig.png
+![Alt text](/imgs/bigwig.png?raw=true "Optional Title")
