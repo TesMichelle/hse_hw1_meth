@@ -45,7 +45,7 @@
 
 
 ###Genome tracks
-
+```
 $ pyGenomeTracks --tracks bigwig.ini --region chr11:3800000-3850000 -o bigwig.png
-
+```
 ![Alt text](/imgs/bigwig.png?raw=true "Optional Title")
