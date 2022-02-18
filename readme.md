@@ -2,9 +2,9 @@
 
 |  Sample  | 11347700-11367700 | 40185800-40195800 | Duplications |
 |:--------:|:------------------|:------------------|:-------------|
-| 8 cell   | 1090              | 464               | 230432       |
-| Epiblast | 2328              | 1062              | 164796       |
-| ICM      | 1456              | 630               | 229833       |
+| 8 cell   | 1090              | 464               | 18.3%        |
+| Epiblast | 2328              | 1062              | 2.92%        |
+| ICM      | 1456              | 630               | 9.08%        |
 
 ### Отличия данных метилирования и данных обычного секвенирования
 
@@ -16,9 +16,9 @@
 
 Данные метилирования:
 ![Alt text](/imgs/gc_dist_methh.png?raw=true "Optional Title")
-![Alt text](/imgs/gc_dist_normal.png?raw=true "Optional Title")
-Обычные данные:
 ![Alt text](/imgs/sequence_content_meth.png?raw=true "Optional Title")
+Обычные данные:
+![Alt text](/imgs/gc_dist_normal.png?raw=true "Optional Title")
 ![Alt text](/imgs/sequence_content_normal.png?raw=true "Optional Title")
 
 
