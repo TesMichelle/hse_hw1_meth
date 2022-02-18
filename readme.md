@@ -21,7 +21,11 @@
 ![Alt text](/imgs/gc_dist_normal.png?raw=true "Optional Title")
 ![Alt text](/imgs/sequence_content_normal.png?raw=true "Optional Title")
 
+Графики m-bias используются для нахождения отклонений возникших из-за того, что
+метилированный цитозин воспринимается секвинатором как тимин, или отклонения,
+возникающего на 3' конце рида из-за особенностей секвинирования BS-seq.
 
+На данных графиках мы наблюдаем как раз второй случай, где отклонение возникает на 3' конце.
 ![Alt text](/imgs/8_cell_m_bias_1.png?raw=true "Optional Title")
 ![Alt text](/imgs/8_cell_m_bias_2.png?raw=true "Optional Title")
 ![Alt text](/imgs/epiblast_m_bias_1.png?raw=true "Optional Title")
