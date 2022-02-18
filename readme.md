@@ -27,10 +27,12 @@
 метилированный цитозин воспринимается секвинатором как тимин, или отклонения,
 возникающего на 3' конце рида из-за особенностей секвинирования BS-seq.
 
-На данных графиках мы наблюдаем как раз второй случай, где отклонение возникает на 3' конце.
+На данных графиках мы наблюдаем как раз второй случай, где отклонение возникает на 3' конце (в начале второго рида).
 ![Alt text](/imgs/8_cell_m_bias_1.png?raw=true "Optional Title")
 ![Alt text](/imgs/8_cell_m_bias_2.png?raw=true "Optional Title")
 ![Alt text](/imgs/epiblast_m_bias_1.png?raw=true "Optional Title")
 ![Alt text](/imgs/epiblast_m_bias_2.png?raw=true "Optional Title")
 ![Alt text](/imgs/ICM_m_bias_1.png?raw=true "Optional Title")
 ![Alt text](/imgs/ICM_m_bias_2.png?raw=true "Optional Title")
+
+![Alt text](/imgs/histograms.png?raw=true "Optional Title")
