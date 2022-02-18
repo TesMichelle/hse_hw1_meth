@@ -35,4 +35,8 @@
 ![Alt text](/imgs/ICM_m_bias_1.png?raw=true "Optional Title")
 ![Alt text](/imgs/ICM_m_bias_2.png?raw=true "Optional Title")
 
+
+### Уровень метилирования в образцах
+Получившиеся гистограммы согласовываются с тем, что при раннем эмбриогенезе наблюдается
+демитилирование (8 cell - 2.25 день => ICM - 3.5 день), затем в процесс имплантации происходит скачек метилирования (epiblast).
 ![Alt text](/imgs/histograms.png?raw=true "Optional Title")
